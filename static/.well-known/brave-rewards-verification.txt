@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ganev.ru
+Token: 9adc018033f6823c243bcb91b7526b80ba4942cf25679a48e3a63e11bb257287
